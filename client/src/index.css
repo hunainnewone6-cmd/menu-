@@ -87,12 +87,6 @@
   --spacing-space-xl: 2.5rem;
 }
 
-:root {
-  font-family: var(--font-family-plus-jakarta);
-  background-color: var(--color-background);
-  color: var(--color-on-surface);
-}
-
 @layer base {
   html, body {
     margin: 0;
